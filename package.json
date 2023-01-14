@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Storybook design systems tutorial",
   "license": "MIT",
+  "private": false,
   "main": "dist/index.js",
   "repository": "https://github.com/M3rlin00/learnstorybook-design-system.git",
   "dependencies": {
